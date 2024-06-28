@@ -1,0 +1,13 @@
+.cart-container {
+    width: 25%;
+    margin: auto;
+    border: 1px solid #ccc;
+    padding: 4%;
+    margin: 2.7% auto;
+}
+
+@media(max-width:500px) {
+    .cart-container {
+        width: 90%;
+    }
+}
